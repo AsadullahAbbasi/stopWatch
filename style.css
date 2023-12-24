@@ -7,8 +7,6 @@
     background-repeat : no-repeat;
     background-size : cover;
 
- 
-   
 }
 .timers{
   display: flex;
@@ -43,6 +41,6 @@
 }
 .btns:hover{
     box-shadow: -4px 8px 7px -2px rgba(252,124,5,0.75);
-    -webkit-box-shadow: -4px 8px 7px -2px rgba(252,124,5,0.75);
+    -webkit-box-shadow: -4px 8px 7px -2px rgba(235, 119, 11, 0.75);
     -moz-box-shadow: -4px 8px 7px -2px rgba(252,124,5,0.75);
 }
