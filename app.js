@@ -36,7 +36,7 @@ const startFunc=function(){
 let startInterval=null;
 //Triggerinng Start Event
 startbtn.addEventListener('click', function(){
-    if (startInterval===null){
+    if ( startInterval===null){
         audio.play();
         startInterval=setInterval(startFunc,10)
           startbtn.disabled=true;
